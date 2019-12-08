@@ -1,4 +1,4 @@
-package HierarchicalInheritance;
+package multipleInheritance;
 
 public class Dog extends Animal{
     public void bark(){

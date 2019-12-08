@@ -1,4 +1,4 @@
-package StackOfStrings;
+package stackOfStrings;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package HierarchicalInheritance;
+package hierarchicalInheritance;
 
 public class Cat extends Animal{
     public void meow(){
